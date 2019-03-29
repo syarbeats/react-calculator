@@ -1,0 +1,17 @@
+:root{
+    /*font*/
+    --main-font: 'Orbitron', sans-serif;
+
+    /*background color*/
+    --calculator-background-color: #696969;
+
+    /*calculator dimension*/
+    --calculator-height:72%;
+    --calculator-width: 36%;
+
+}
+
+body, div, p {
+    margin: 0;
+    padding: 0;
+}
